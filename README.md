@@ -1,2 +1,2 @@
 # Auto-Redirects
-Javascript bookmarklet to take a screaming frog URL scrape and attempt to auto match them to the Correct pages 
+Javascript bookmarklet to take a Screaming Frog URL scrape and attempt to auto match them to the Correct pages 
